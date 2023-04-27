@@ -1,0 +1,1 @@
+# this is a Project for generate armenian text
